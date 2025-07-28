@@ -1,0 +1,357 @@
+[
+  {
+    "label": "H3",
+    "text": "Abstract",
+    "page": 1
+  },
+  {
+    "label": "TITLE",
+    "text": "Reasoning Models via Tool Augmentations",
+    "page": 1
+  },
+  {
+    "label": "TITLE",
+    "text": "Thinking Isn\u2019t an Illusion: Overcoming the Limitations of",
+    "page": 1
+  },
+  {
+    "label": "H3",
+    "text": "Figure 1: Research Question.",
+    "page": 2
+  },
+  {
+    "label": "H1",
+    "text": "Introduction",
+    "page": 2
+  },
+  {
+    "label": "H1",
+    "text": "Related Works",
+    "page": 3
+  },
+  {
+    "label": "H3",
+    "text": "Roadmap.",
+    "page": 3
+  },
+  {
+    "label": "H1",
+    "text": "3",
+    "page": 4
+  },
+  {
+    "label": "H1",
+    "text": "Puzzle Environments",
+    "page": 4
+  },
+  {
+    "label": "H2",
+    "text": "3.2 Python Interpreter Environments",
+    "page": 5
+  },
+  {
+    "label": "H2",
+    "text": "3.1 Apple\u2019s Thinking-Illusion Benchmark",
+    "page": 5
+  },
+  {
+    "label": "H2",
+    "text": "Python Program",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "Output",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "Output",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "Output",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Puzzle",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Puzzle",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Puzzle",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Puzzle",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "4.1 Experimental Settings",
+    "page": 8
+  },
+  {
+    "label": "H2",
+    "text": "Year",
+    "page": 8
+  },
+  {
+    "label": "H2",
+    "text": "Experiments",
+    "page": 8
+  },
+  {
+    "label": "H2",
+    "text": "Direct Prompting",
+    "page": 9
+  },
+  {
+    "label": "H2",
+    "text": "Tool Usage",
+    "page": 9
+  },
+  {
+    "label": "H3",
+    "text": "Block",
+    "page": 9
+  },
+  {
+    "label": "H2",
+    "text": "Direct Prompting",
+    "page": 9
+  },
+  {
+    "label": "H2",
+    "text": "Tool Usage",
+    "page": 9
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "River Crossing",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "Blocks World",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "#Scratchpads",
+    "page": 10
+  },
+  {
+    "label": "H2",
+    "text": "River Crossing",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "Blocks World",
+    "page": 10
+  },
+  {
+    "label": "H1",
+    "text": "References",
+    "page": 12
+  },
+  {
+    "label": "H1",
+    "text": "Conclusion",
+    "page": 12
+  },
+  {
+    "label": "H3",
+    "text": "Blocks World",
+    "page": 12
+  },
+  {
+    "label": "H2",
+    "text": "River Crossing",
+    "page": 12
+  },
+  {
+    "label": "H1",
+    "text": "Introducing",
+    "page": 14
+  },
+  {
+    "label": "H1",
+    "text": "Introducing",
+    "page": 14
+  },
+  {
+    "label": "H3",
+    "text": "models.",
+    "page": 15
+  },
+  {
+    "label": "H3",
+    "text": "models.",
+    "page": 16
+  }
+]

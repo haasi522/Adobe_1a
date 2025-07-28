@@ -1,0 +1,387 @@
+[
+  {
+    "label": "H1",
+    "text": "Introduction",
+    "page": 1
+  },
+  {
+    "label": "H2",
+    "text": "Abstract",
+    "page": 1
+  },
+  {
+    "label": "H3",
+    "text": "MATH",
+    "page": 2
+  },
+  {
+    "label": "H3",
+    "text": "GraphInstruct",
+    "page": 2
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 2
+  },
+  {
+    "label": "H3",
+    "text": "0.8 66.0",
+    "page": 2
+  },
+  {
+    "label": "H2",
+    "text": "Computation",
+    "page": 2
+  },
+  {
+    "label": "H2",
+    "text": "Enumeration",
+    "page": 2
+  },
+  {
+    "label": "H2",
+    "text": "2.1 Reasoning Paradigms",
+    "page": 3
+  },
+  {
+    "label": "H1",
+    "text": "GraphPile",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Enumeration",
+    "page": 3
+  },
+  {
+    "label": "H1",
+    "text": "GraphPile",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Computation",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Documents",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Connectivity",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Degree Counting",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "LLM Rephrasing",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Verification",
+    "page": 3
+  },
+  {
+    "label": "H2",
+    "text": "Rephrasing",
+    "page": 3
+  },
+  {
+    "label": "H3",
+    "text": "Division Tasks.",
+    "page": 4
+  },
+  {
+    "label": "H3",
+    "text": "Numerical Computation Tasks.",
+    "page": 4
+  },
+  {
+    "label": "H3",
+    "text": "Topological Reasoning Tasks.",
+    "page": 4
+  },
+  {
+    "label": "H3",
+    "text": "Graph Generation.",
+    "page": 5
+  },
+  {
+    "label": "H3",
+    "text": "Triangle:",
+    "page": 5
+  },
+  {
+    "label": "H3",
+    "text": "Henry",
+    "page": 5
+  },
+  {
+    "label": "H3",
+    "text": "Toni",
+    "page": 5
+  },
+  {
+    "label": "H3",
+    "text": "Program-of-Thought",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Program-of-Thought",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Generation.",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Real-World Graph Data Generation.",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "Chain-of-Thought Data Generation.",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "3.1 Experimental Settings",
+    "page": 7
+  },
+  {
+    "label": "H1",
+    "text": "3",
+    "page": 7
+  },
+  {
+    "label": "H2",
+    "text": "Experiments",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "Trace-of-Execution Data Generation.",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "CoT, PoT, ToE",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "MATH",
+    "page": 8
+  },
+  {
+    "label": "H2",
+    "text": "3.3 Post-Training",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "40.9 69.6",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "70.8 42.4",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "10.0 22.8",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "2.0 8.8",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "50.6 65.8",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "77.6 39.6",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "32.8 43.6",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "Math",
+    "page": 9
+  },
+  {
+    "label": "H3",
+    "text": "Removing Different Components.",
+    "page": 9
+  },
+  {
+    "label": "H1",
+    "text": "Limitations",
+    "page": 10
+  },
+  {
+    "label": "H1",
+    "text": "Conclusion",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "Case Study.",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "77.9 67.2",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "GraphInstruct",
+    "page": 10
+  },
+  {
+    "label": "H1",
+    "text": "References",
+    "page": 11
+  },
+  {
+    "label": "H2",
+    "text": "Continue-Pretraining.",
+    "page": 15
+  },
+  {
+    "label": "H1",
+    "text": "Related Works",
+    "page": 15
+  },
+  {
+    "label": "H2",
+    "text": "Additional Definition",
+    "page": 16
+  },
+  {
+    "label": "H3",
+    "text": "Prompts C.2: An Example of LLM Examination Prompt",
+    "page": 17
+  },
+  {
+    "label": "H3",
+    "text": "Prompts C.1: An Example of LLM Rehearsal Prompt",
+    "page": 17
+  },
+  {
+    "label": "H2",
+    "text": "Prompt Showcase",
+    "page": 17
+  },
+  {
+    "label": "H3",
+    "text": "Prompts C.6: An Example of LLM Rewrite Prompt",
+    "page": 18
+  },
+  {
+    "label": "H3",
+    "text": "Prompts C.5: An Example of LLM Retrieval Prompt",
+    "page": 18
+  },
+  {
+    "label": "H3",
+    "text": "Prompts C.4: An Example of LLM Filtering Prompt",
+    "page": 18
+  },
+  {
+    "label": "H3",
+    "text": "graph-based reasoning tasks.",
+    "page": 30
+  },
+  {
+    "label": "H2",
+    "text": "E.2",
+    "page": 30
+  },
+  {
+    "label": "H3",
+    "text": "Training Settings.",
+    "page": 30
+  },
+  {
+    "label": "H3",
+    "text": "Base Models.",
+    "page": 30
+  },
+  {
+    "label": "H2",
+    "text": "Details of Evaluation",
+    "page": 30
+  },
+  {
+    "label": "H2",
+    "text": "E.4",
+    "page": 32
+  },
+  {
+    "label": "H2",
+    "text": "Connectivity",
+    "page": 32
+  },
+  {
+    "label": "H3",
+    "text": "GraphInstruct",
+    "page": 32
+  },
+  {
+    "label": "H3",
+    "text": "\u2022 GraphInstruct:",
+    "page": 32
+  },
+  {
+    "label": "H3",
+    "text": "\u2022 Graphwiz:",
+    "page": 32
+  },
+  {
+    "label": "H2",
+    "text": "E.3",
+    "page": 32
+  },
+  {
+    "label": "H3",
+    "text": "GraphInstruct",
+    "page": 33
+  },
+  {
+    "label": "H2",
+    "text": "Accuracy",
+    "page": 33
+  },
+  {
+    "label": "H3",
+    "text": "GraphInstruct",
+    "page": 33
+  },
+  {
+    "label": "H3",
+    "text": "Question:",
+    "page": 34
+  }
+]

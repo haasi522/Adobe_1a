@@ -1,0 +1,237 @@
+[
+  {
+    "label": "H2",
+    "text": "Shiting",
+    "page": 1
+  },
+  {
+    "label": "H2",
+    "text": "Abstract",
+    "page": 1
+  },
+  {
+    "label": "H1",
+    "text": "Introduction",
+    "page": 1
+  },
+  {
+    "label": "TITLE",
+    "text": "Each to Their Own: Exploring the Optimal Embedding in RAG",
+    "page": 1
+  },
+  {
+    "label": "H1",
+    "text": "Preliminary and Related Work",
+    "page": 2
+  },
+  {
+    "label": "H3",
+    "text": "\u2022 Average Log-Probability (AvgLogP) : This",
+    "page": 3
+  },
+  {
+    "label": "H3",
+    "text": "confidence.",
+    "page": 3
+  },
+  {
+    "label": "H3",
+    "text": "3.1 Mixture-Embedding RAG",
+    "page": 4
+  },
+  {
+    "label": "H3",
+    "text": "ships.",
+    "page": 4
+  },
+  {
+    "label": "H1",
+    "text": "3",
+    "page": 4
+  },
+  {
+    "label": "H1",
+    "text": "Methodology",
+    "page": 4
+  },
+  {
+    "label": "H2",
+    "text": "Experiment",
+    "page": 5
+  },
+  {
+    "label": "H3",
+    "text": "4.2.1 Vanilla LLM and RAG",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "4.2.3 Results of Confident RAG method",
+    "page": 6
+  },
+  {
+    "label": "H3",
+    "text": "4.2.2 Results of Mixture-Embedding RAG",
+    "page": 6
+  },
+  {
+    "label": "H2",
+    "text": "4.3.2 Confident RAG",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "math",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "4.3.1 Mixture-embedding RAG",
+    "page": 7
+  },
+  {
+    "label": "H2",
+    "text": "4.3 Analysis",
+    "page": 7
+  },
+  {
+    "label": "H2",
+    "text": "Mix-Embedding RAG",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "16.6%",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "Improvement",
+    "page": 7
+  },
+  {
+    "label": "H3",
+    "text": "26.7%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "27.8%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "27.7%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "27.8%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.6%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.6%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.6%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.6%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "23.6%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.4%",
+    "page": 8
+  },
+  {
+    "label": "H3",
+    "text": "26.6%",
+    "page": 8
+  },
+  {
+    "label": "H1",
+    "text": "Conclusion",
+    "page": 9
+  },
+  {
+    "label": "H1",
+    "text": "References",
+    "page": 9
+  },
+  {
+    "label": "H3",
+    "text": "2 olmo 2 furious.",
+    "page": 10
+  },
+  {
+    "label": "H3",
+    "text": "Oh,",
+    "page": 11
+  },
+  {
+    "label": "H2",
+    "text": "Improving",
+    "page": 11
+  },
+  {
+    "label": "H3",
+    "text": "models.",
+    "page": 11
+  }
+]
